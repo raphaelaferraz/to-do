@@ -61,7 +61,23 @@ main {
 
 .secao__formulario__lista {
     list-style-type: none;
+    height: 15rem;
+    overflow: overlay;
 }
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-radius: 50px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #a20000;
+    border-radius: 50px;
+  }
 
 .secao__formulario__lista__item {
     background-color: #4E0704;
