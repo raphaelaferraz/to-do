@@ -47,3 +47,12 @@ main {
     outline: none;
     border: none;
 }
+
+.secao__formulario__input-botao {
+    background-color: transparent;
+    padding: 0.8rem;
+    border-radius: 15px;
+    border: 1px solid #FD0000;
+    color: #F1BEBE;
+    box-shadow: 1px 1px 7px #fd0000;
+}
