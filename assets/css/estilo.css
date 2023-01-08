@@ -58,3 +58,29 @@ main {
     box-shadow: 1px 1px 7px #fd0000;
     margin-right: .35rem;
 }
+
+.secao__formulario__lista {
+    list-style-type: none;
+}
+
+.secao__formulario__lista__item {
+    background-color: #4E0704;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .8rem;
+    border-radius: 15px;
+    color: #F3B0B0;
+}
+
+.secao__formulario__lista__item__conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.secao__formulario__lista__item__conteiner__botao-lixeira, .secao__formulario__lista__item__conteiner__botao-completo {
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
