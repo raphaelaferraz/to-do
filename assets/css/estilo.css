@@ -38,3 +38,12 @@ main {
     margin: 0.5rem 0 0.5rem 0;
 }
 
+.secao__formulario__input-texto {
+    background-color: #8F392B;
+    border-radius: 15px;
+    height: 3rem;
+    padding-left: .5rem;
+    color: #F6E4E4;
+    outline: none;
+    border: none;
+}
