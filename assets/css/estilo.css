@@ -46,7 +46,7 @@ main {
     color: #F6E4E4;
     outline: none;
     border: none;
-    margin: 0.7rem 0 0.7rem 0;
+    margin: 0.7rem 0 0.7rem .35rem;
 }
 
 .secao__formulario__input-botao {
