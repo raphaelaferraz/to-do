@@ -71,7 +71,7 @@ main {
     padding: .8rem;
     border-radius: 15px;
     color: #F3B0B0;
-    margin-top: 1rem;
+    margin: 1rem 0 1rem 0;
 }
 
 .secao__formulario__lista__item__conteiner {
