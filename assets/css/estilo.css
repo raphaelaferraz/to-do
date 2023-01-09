@@ -57,6 +57,12 @@ main {
     color: #F1BEBE;
     box-shadow: 1px 1px 7px #fd0000;
     margin-right: .35rem;
+    transition: all .5s;
+}
+
+.secao__formulario__input-botao:hover {
+    cursor: pointer;
+    background-color: #4E0704;
 }
 
 .secao__formulario__lista {
