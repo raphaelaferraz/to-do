@@ -137,3 +137,25 @@ main {
     font-weight: bold;
     margin-bottom: 2rem;
 }
+
+.secao__formulario-edicao__conteiner-input {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+}
+
+.secao__formulario-edicao__label {
+    color: #F1BEBE;
+    margin-right: 1rem;
+    font-size: 18px;
+}
+
+.secao__formulario-edicao__input, .secao__formulario-edicao__conteiner, .secao__formulario-edicao__conteiner {
+    background-color: #8F392B;
+    border: none;
+    border-radius: 15px;
+    height: 3rem;
+    padding-left: .5rem;
+    color: #F6E4E4;
+}
