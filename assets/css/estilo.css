@@ -106,4 +106,9 @@ main {
     background-color: transparent;
     outline: none;
     border: none;
+    transition: all .5s;
+}
+
+.secao__formulario__lista__item__conteiner__botao-lixeira:hover,  .secao__formulario__lista__item__conteiner__botao-completo {
+    cursor: pointer;
 }
