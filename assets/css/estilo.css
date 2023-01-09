@@ -112,3 +112,12 @@ main {
 .secao__formulario__lista__item__conteiner__botao-lixeira:hover,  .secao__formulario__lista__item__conteiner__botao-completo {
     cursor: pointer;
 }
+
+.secao__formulario-edicao {
+    background-color: #53150F;
+    box-shadow: 2px 5px 2px 8px rgba(40, 0, 0, 0.5);
+    border-radius: 25px;
+    padding: 1.6rem 2.8rem 2rem 2.8rem;
+    display: flex;
+    flex-direction: column;
+}
