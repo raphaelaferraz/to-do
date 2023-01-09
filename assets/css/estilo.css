@@ -159,3 +159,19 @@ main {
     padding-left: .5rem;
     color: #F6E4E4;
 }
+
+.secao__formulario-edicao__conteiner {
+    padding-left: 2rem;
+    padding-right: 9.5rem;
+}
+
+.secao__formulario-edicao__textarea {
+    background-color: #8F392B;
+    border: none;
+    border-radius: 15px;
+    height: 8rem;
+    margin-top: 1rem;
+    resize: none;
+    padding: 1rem;
+    color: #F6E4E4;;
+}
