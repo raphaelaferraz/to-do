@@ -121,3 +121,8 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+.secao__formulario-edicao__conteiner-botao-fechar {
+    display: flex;
+    justify-content: end;
+}
