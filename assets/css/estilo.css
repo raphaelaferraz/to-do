@@ -175,3 +175,19 @@ main {
     padding: 1rem;
     color: #F6E4E4;;
 }
+
+.secao__formulario-edicao__botao {
+    background-color: transparent;
+    border: 1px solid #FD0000;
+    box-shadow: 2px 3px 8px #FD0000;
+    border-radius: 15px;
+    height: 4rem;
+    width: 7rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    text-align: center;
+    color: #F1BEBE;
+    font-weight: bold;
+    font-size: 18px;
+}
+
