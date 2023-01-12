@@ -90,6 +90,10 @@ function principal() {
 principal();
 
 function edicaoAtividade() {
+ 
+    function pegaId(item) {
+        return item.getElementsByTagName("span")[0].id
+    }
 
     const toggleModal = () => {
         modalEdicao.classList.toggle("hide");
@@ -99,6 +103,7 @@ function edicaoAtividade() {
     const itemLista = document.querySelectorAll(".secao__formulario__lista__item");       
     itemLista.forEach((item) => {
         item.addEventListener("click", () => {  
+            pegaId(item);
             toggleModal();
         });
     });
